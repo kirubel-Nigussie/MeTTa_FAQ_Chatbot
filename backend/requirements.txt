@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+hyperon
+google-generativeai
+python-dotenv
+pydantic
+pyjwt
+passlib
+bcrypt

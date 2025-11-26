@@ -1,0 +1,14 @@
+{
+    "kirubel": {
+        "username": "kirubel",
+        "email": "k@gmail.com",
+        "password": "$2b$12$H0DcroCk5Jm33UpOhac1H.jB82xFJj2OCclZzVyAVX704Sa8Ey8fO",
+        "created_at": "2025-11-26T13:23:32.159809"
+    },
+    "kiki": {
+        "username": "kiki",
+        "email": "ki@gmail.com",
+        "password": "$2b$12$Tcdrb1nPACZp.cpXbOgv4eywqS7E8618sd3jK/Yd7ydpyI60chQiq",
+        "created_at": "2025-11-26T13:58:39.439066"
+    }
+}
