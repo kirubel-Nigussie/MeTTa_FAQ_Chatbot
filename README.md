@@ -1,6 +1,6 @@
 # MeTTa FAQ Chatbot
 
-A Self-Reflective Retrieval-Augmented Generation (RAG) chatbot for the MeTTa programming language. This project combines a **FastAPI** backend (with Hyperon/MeTTa integration) and a **Next.js** frontend to answer user questions based on a structured knowledge base.
+A chatbot for the MeTTa programming language. This project combines a **FastAPI** backend (with Hyperon/MeTTa integration) and a **Next.js** frontend to answer user questions based on a structured knowledge base.
 
 ## Project Structure
 
